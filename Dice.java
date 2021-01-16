@@ -29,7 +29,7 @@ public class Dice {
 		JOptionPane.showMessageDialog(null, "You rolled a " + dice);
 
 
-		if (dice ==5) {
+		if (dice ==6) {
 			System.out.println("You have to do a push-up!");
 		}
 	}
